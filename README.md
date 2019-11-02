@@ -3,7 +3,8 @@ This package contains all you need to stand up a simple nodejs web server and a 
 
 ## Requirements
 
-Linux / Mac OSX, internet connection
+- Linux / Mac OSX
+- An internet connection is required for installing the initial node dependencies but the app runs offline
 
 ## How to use
 
